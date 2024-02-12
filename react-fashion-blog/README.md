@@ -3,7 +3,7 @@
 # MY WEBSITE ON NETLIFY:  
 
 # [Netlify Live Link](https://65ca6d7a122991007d04dc97--magnificent-starship-d8f27c.netlify.app/)
-# [GitHub Pages Live Link](GitHub Pages link of HTML version)
+# [GitHub Pages Live Link](kaidecoder.github.io)
 # [GitHub Link of HTML Version](https://github.com/kaidecoder/fashion-blog)
 ## Learning Objectives
 - After completing this lab, learners will have demonstrated the ability to:

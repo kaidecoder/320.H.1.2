@@ -4,6 +4,7 @@ const Footer = (props) => {
   return (
     <div className="footer">
       {props.footer}
+      {props.copyright}
     </div>
   )
 }
